@@ -1,0 +1,10 @@
+To measure a predictive model's accuracy, you|divide the number of correct predictions by the total number of predictions
+A predictive model's false negative result can be defined as|the predicted result was negative, and the actual result was positive
+A predictive model's true positive result can be defined as|the predicted result was positive, and the actual result was positive
+Model inputs of address with "City + State" as separate inputs from a dataset would violate which accuracy guideline?|No correlating data
+Once a dataset has been cleaned, which accuracy guideline ensures your model is looking at the problem correctly?|Domain expertise
+A good example of cultural reflection in training data is|a model selects for one demographic less often because of their historical representation
+A good example of empirical reflection in training data is|an image recognition model cannot tell a difference between a photo of a dog and a photo of a photo of a dog
+A training set based on feeding 60% of data, validating on 20% of data, and then designing multiple tests for the remaining 20% of data is referred to as an|classic training set
+Our goals for building an ethical predictive model include making sure the results are|accurate, fair and explainable
+Unknown Unknowns refer to|lack of explainability and what a model is actually looking at to make it's prediction

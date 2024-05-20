@@ -1,0 +1,10 @@
+What's the difference between a basic and complex learning algorithm?|A basic algorithm has a set amount of choices to optimize for, while a complex algorithm is given the freedom to find its own model
+When building a predictive model, what is the goal of the develop phase?|To specify the type of algorithm the model should use and make sure the data is cleaned/formatted
+When building a predictive model, what is the goal of the training phase?|To adjust the model based on a subset of data, optimizing for a lower error rate
+When building a predictive model, what is the goal of the deployment phase?|To use the model in real-life predictions, monitoring the error rate and accuracy
+What are the attributes of an error function when training a predictive model|the percentage of predictions that don't match actual outcomes
+In a complex learning function, we will understand the ____, but not the ____|inputs/outputs, algorithm
+What is the black box problem?|When a model is deployed, but researchers are unable to figure out why it's making decisions
+Which of the following is a negative consequence of a predictive model used in real life?|A model used by a bank wrongly predicts a person will not be able to pay off a loan
+How are predictive models used in hedge funds?|they predict future movement of stocks and find points to exploit the market moving in either direction
+What is one possible reason a model may predict a higher crime rate based on datasets used?|If drug arrests are historically high in that area, the model may correlate crime with areas of high drug use based on the datasets

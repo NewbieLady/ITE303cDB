@@ -1,0 +1,10 @@
+Which of the following is a recommended security practice for machine learning datasets?|Enact a sound data governance structure
+The Data minimization principle requires that you limit data collection to only what is __________|required to fulfill a specific purpose
+Delete unused data __________ is a method of data minimization|early and often
+GDPR states that "Personal data shall be adequate, relevant and __________ in relation to the purpose or purposes for which they are processed."|not excessive
+What can be learned from a predictive model should not change if the _________ is either included or excluded in the training set|individual's data
+Differential privacy works by adding what to a dataset?|noise
+If a coin is flipped, which of the following would ensure "yes/no" data is private while still remaining useful?|heads for true answer, tails for random answer
+At which level of differential privacy is the outcome secured from even the people collecting answers?|local
+Plausible deniability refers to the ability of the individual to ______|claim their score was randomized response
+In reverse-engineering a double coin flip differential model, what would be the amount of truthful "yes/no" responses in our dataset?|75%

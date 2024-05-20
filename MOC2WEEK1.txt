@@ -1,0 +1,10 @@
+Fairness is best defined as just treatment without __________|favoritism or discrimination
+Which type of fairness would make sense when dividing tickets evenly between groups?|statistical parity
+Which type of fairness fails to address merit while maintaining accuracy?|statistical parity
+A model that prioritizes equality on the outputs uses|error rate parity
+Fairness in machine learning can protect groups from bias, but can still harm|individuals within those groups
+A goal of a fair model's accuracy standards is to|minimize the error rate as long as parity is obtained
+A model that makes more mistakes by moving its decision threshold down 40% of its worthiness metric will be potentially|fairer but less accurate
+If one group comprises the majority of the training data, they will skew the dataset and give the model|more confidence about that group
+If we know one group's worthiness score has been artificially inflated, one solution for fairness is to|creating separate decision thresholds for each group
+An unfair model will by nature|optimize for making the fewest mistakes

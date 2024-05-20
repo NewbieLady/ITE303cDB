@@ -1,0 +1,10 @@
+The __________ theorem states that all models have the same error rate when averaged over all possible data generating distributions.|no free lunch
+As a cognitive bias, humans see lack of context/meaning around a piece of information and tend to|fill in gaps with existing knowledge
+When your collected data doesn't accurately reflect the full environment, you're experiencing|sample bias
+The tendency to only seek attributes in existing collected data is known as|availability bias
+An example of automation bias is|using scraped twitter data over survey data
+A ________ is when a model is validated by it's own influence on predictions|self-fulfilling prediction
+One way to avoid feedback loops in machine learning is to|label outputs to prevent re-training bias
+Dating algorithms become biased mostly through offering users _________|collaborative filtering
+Predictive loops in marketplace models like dating apps are especially susceptible to bias due to|short feedback cycles
+Game theory states that outcomes that are best for _____ can be obscured by outcomes best for ______|the group, the individual

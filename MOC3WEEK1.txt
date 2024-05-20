@@ -1,0 +1,10 @@
+A dataset attribute that is not identifiable but constitutes data about the individual that needs to be protected is known as a|sensitive column
+K-anonymity in a dataset is achieved when each individual cannot be|distinguished from at least K individuals who are also in the dataset
+A major downside to k-anonymity is that re-identification is possible with|multiple datasets
+A hospital dataset protects whether an individual has had either a stroke, heart attack, or staph infection. The individual may still be harmed via dataset|group inclusion
+A non-sensitive column may become sensitive or even identifiable when viewed through the lens of|algorithmic privacy violations
+An example of a public dataset at risk of an algorithmic privacy violation is the|Google Maps satellite view dataset
+The Netflix prize privacy scandal is an example of reidentification through|multiple datasets
+The nature of a predictive model may reveal ___________|the data it is trained on
+An adversarial model relies on using __________ to observe different outputs|perturbed inputs
+One way to counter a potential adversarial algorithm is by|limiting precise outputs

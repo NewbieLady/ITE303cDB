@@ -1,0 +1,10 @@
+A state where resources cannot be reallocated to make one individual better off without making at least one individual worse off is known as a|prisoner's dilemma
+In machine learning, what do we plot on the X,Y axis to determine a pareto curve?|Error rate, rejection rate
+Why is it impractical to protect all possible subgroups in predictive models?|Accuracy will be lowered beyond a reasonable rate
+A model that equalizes the number of mistakes it makes for each subgroup to reduce harm is deciding on|equality of false negatives
+A _________ model can still be unfair even though it won't explicitly know which groups are being inputted into the system|blind attribute
+What tools do researchers have to evaluate the fairness of existing black box models?|Change inputs, evaluate outputs
+A "purposefully biased" algorithm used to identify unfair attributes is known as|an adversarial algorithm
+In presenting an audit report, a researcher would|score the weight of input attributes on output
+In fixing the Word2Vec model, we have an advantage over a traditional black box model in that|we have access to the training data
+An auditing model is an example of a ______ bias mitigation method|in-processing

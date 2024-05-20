@@ -1,0 +1,10 @@
+Which of the following best describes what an algorithm is?|a recipe that a computer uses to solve problems
+An algorithm that takes an input, tries 10 different sorting techniques, and uses the best fit on the next 100 inputs is best described as a|learning algorithm
+Which of these steps follows the most logical order for a low-to-high sorting algorithm?|Scan to find the smallest number Set to 0 in the index in the output array Remove that number from the input array Repeat steps 1-3, but add 1 to the index number for each loop
+What's the difference between a basic and learning algorithm?|An basic algorithm takes an input and gets an output, while a learning algorithm uses the output on the next input
+Pseudocode can best be defined as|an explainable description of code that is meant for humans, not computers
+What side effect of learning algorithms creates an ethical dilemma for its users?|Learning algorithms require large datasets, which means storing identifying information about users
+How do anonymized datasets fall short of their goal of being anonymous?|Anonymized datasets can be combined with other datasets, which can re-identify individuals
+What is a likely outcome for a weather app using a learning algorithm to figure out where to put their future weather stations?|Collecting location data every time the app is opened, potentially learning where a user lives, works, etc.
+Which of the following is a good  example of a feedback loop in machine learning?|A social media site tracks engagement, uses an algorithm to surface posts you're likely to engage with, which then goes back into the algorithm
+A fact of learning algorithms is that|even if you haven't shared an direct datapoint about yourself, with enough related datapoints the algorithm can make an educated guess with alarming accuracy

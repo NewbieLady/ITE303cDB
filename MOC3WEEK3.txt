@@ -1,0 +1,10 @@
+Ethical models are _________|accurate, methodical, and fair
+A _____ model is preferred by businesses because they see less competition as a benefit|black box
+One benefit of an explainable model is|recruiting leverage
+The Strava dataset example illustrates that while differential privacy can protect individuals, it can still harm _______|groups
+The explainable AI movement states that cooperation between agents, in this case, algorithms and humans, depends on which of the following?|trust
+A benefit of glass-box models is that if an attribute is skewing the fairness of a decision, a human agent may choose to|re-run the algorithm without it
+_____ algorithms are a challenge to explainable AI, as their complexity makes it difficult to weigh attribute importance|deep learning
+When used in recommendation engines, explainable algorithms can help answer the question of ____|why?
+Group outcomes being improved through explainable recommendation systems is an example of using _______ to modify outcomes|game theory
+A major limitation of using explainable, adjustable algorithms is that users tend to make _____ decisions|selfish

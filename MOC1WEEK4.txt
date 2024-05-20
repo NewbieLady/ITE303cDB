@@ -1,0 +1,10 @@
+For a model to clean, parse, and self-train it's own dataset while remaining impartial, the model needs|a list of bias and domain tests to run and adjust for
+For a model to make decisions that involve human life, the model needs|a moral code of reasoning and priorities
+A type of artificial intelligence that outperforms humans in some defined task is known as|Narrow AI
+A type of artificial intelligence that outperforms humans in all tasks is known as|General AI
+In 2019, ____% of equity-futures and cash-equity trades were executed by algorithms|80-90%
+The optimistic view of general AI could be accurately summarized as AI as a ____|utility
+The pessimist view of general AI references a scenario in which advancement is _____|winner take all
+An ethical general purpose AI must _____ while not harming the safety of humanity|benefit as many people as possible
+"Companies have an obligation to their shareholders" is part of a view that sees artificial intelligence as|just another tool that accelerates research, like online advertising
+An unintended negative outcome of programming a broad goal into general intelligence is known as|perverse instantiation
